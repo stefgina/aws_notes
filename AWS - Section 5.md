@@ -28,7 +28,7 @@ spot instances are dangerous so dont use for critical workloads (use them for ED
 
 Dedicated host : a physical server dedicated to your use (in case of compliance, regulations)
 
-![[instance-host.png]]
+![](instance-host.png)
 
 
 On demand: coming and staying whenever you like
@@ -39,9 +39,9 @@ dedicated hosts: we book an entire building of the resort
 capacity reservation: you book a room for a period with full price even you dont stay in
 
 
-![[prices.png]]
+![](prices.png)
 
-![[security-ec2.png]]
+![](security-ec2.png)
 
 
 
