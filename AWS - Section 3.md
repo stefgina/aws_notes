@@ -74,7 +74,7 @@ c) available services (not all regions have all services installed)
 
 Responsibility / security in the cloud
 
-![[Screenshot 2023-11-11 at 19.10.13.png]]
+![alt text](Screenshot 2023-11-11 at 19.10.13.png)
 
 
 No illegal, Harmful, or Offensive Use or Content
