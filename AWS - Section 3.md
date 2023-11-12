@@ -39,7 +39,7 @@ Infrastructure as a Service (IaaS)
 Platform as a Service (PaaS)
 Software as a Service (SaaS)
 
-![alt text](iaas-paas-saas.png)
+![[iaas-paas-saas.png]]
 
 
 example:
@@ -74,7 +74,7 @@ c) available services (not all regions have all services installed)
 
 Responsibility / security in the cloud
 
-![alt text](sec.png)
+![[sec.png]]
 
 
 No illegal, Harmful, or Offensive Use or Content
