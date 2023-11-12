@@ -39,7 +39,7 @@ Infrastructure as a Service (IaaS)
 Platform as a Service (PaaS)
 Software as a Service (SaaS)
 
-![[iaas-paas-saas.png]]
+![alt text](iaas-paas-saas.png)
 
 
 example:
