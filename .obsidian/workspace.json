@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS - Section 3.md",
+                "file": "AWS - Section 6 - Storage.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "86ab4300b959d9df",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "imgs/ec2-img-builder.png"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS - Section 3.md",
+                "file": "AWS - Section 6 - Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS - Section 3.md",
+                "file": "AWS - Section 6 - Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS - Section 3.md"
+                "file": "AWS - Section 6 - Storage.md"
               }
             }
           }
@@ -148,15 +158,22 @@
   },
   "active": "54df0c2226a27e44",
   "lastOpenFiles": [
+    "imgs/scope.png",
+    "AWS - Section 6 - Storage.md",
+    "imgs/storage-summary.png",
+    "imgs/ebs-efs.png",
+    "imgs/efs-ia.png",
+    "AWS - Section 3 - Cloud.md",
+    "imgs/ec2-img-builder.png",
+    "AWS - Section 4 - IAM.md",
+    "AWS - Section 5 - EC2.md",
+    "imgs/snap.png",
+    "Screenshot 2023-11-13 at 13.58.13.png",
+    "Screenshot 2023-11-13 at 13.53.01.png",
+    "Screenshot 2023-11-13 at 13.52.43.png",
     "README.md",
-    "AWS - Section 5.md",
-    "AWS - Section 4.md",
-    "AWS - Section 3.md",
     "imgs/isec.png.md",
     "imgs/ec2-instances.png",
-    "imgs",
-    "imgs/security-ec2.png",
-    "imgs/prices.png",
-    "imgs/instance-host.png"
+    "imgs"
   ]
 }
