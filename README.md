@@ -1,3 +1,5 @@
 # aws_notes
-note repo for aws understanding, usage &amp; certs
-every chapter will be pushed as a different file. check folder structure.
+
+personal repo for AWS notes (on different services, EC2, etc.), may be used as cheatsheet.
+
+TODO: need folder structure, later for AWS ML
