@@ -7,7 +7,7 @@ EC2 user script must run on root user
 t2 is free-tier
 
 
-![](mgs/ec2-instances.png)
+![](imgs/ec2-instances.png)
 
 C-instances: compute optimised
 R-instances, X1, High Memory, z1: memory optimised
@@ -18,7 +18,7 @@ ec2instances.info : can check all the info about instances
 application not accessible (timeout) : security group issue
 
 
-![](mgs/ports.png)
+![](imgs/ports.png)
 The logic is to use Security groups as Firewalls, limit IPs and Ports Inbound, and Outbound everything
 
 reserved instances vs on demand (upfront money, or by usage)
@@ -28,7 +28,7 @@ spot instances are dangerous so dont use for critical workloads (use them for ED
 
 Dedicated host : a physical server dedicated to your use (in case of compliance, regulations)
 
-![](mgs/instance-host.png)
+![](imgs/instance-host.png)
 
 
 On demand: coming and staying whenever you like
@@ -39,9 +39,9 @@ dedicated hosts: we book an entire building of the resort
 capacity reservation: you book a room for a period with full price even you dont stay in
 
 
-![](mgs/prices.png)
+![](imgs/prices.png)
 
-![](mgs/security-ec2.png)
+![](imgs/security-ec2.png)
 
 
 
