@@ -1,6 +1,5 @@
 # aws_notes
 
-personal repo for AWS notes (on different services, EC2, etc.), may be used as cheatsheet.
+IAM, EC3, S3, ECS, Lambda, Batch, Lightsail, Cloud
 
-TODO: need folder structure, later for AWS ML
-ss
+TODO: cert folder structure, for AWS ML

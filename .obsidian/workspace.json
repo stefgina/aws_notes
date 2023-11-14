@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS - Section 5 - EC2.md",
+                "file": "AWS - Section 11 - Deploying & Infrastructure at Scale.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "86ab4300b959d9df",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "imgs/ec2-img-builder.png"
               }
             }
           }
@@ -79,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 389.5
   },
   "right": {
     "id": "16e38dbe88b318dd",
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS - Section 5 - EC2.md",
+                "file": "AWS - Section 11 - Deploying & Infrastructure at Scale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS - Section 5 - EC2.md",
+                "file": "AWS - Section 11 - Deploying & Infrastructure at Scale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS - Section 5 - EC2.md"
+                "file": "AWS - Section 11 - Deploying & Infrastructure at Scale.md"
               }
             }
           }
@@ -158,22 +148,28 @@
   },
   "active": "54df0c2226a27e44",
   "lastOpenFiles": [
-    "AWS - Section 6 - Storage.md",
-    "imgs/scope.png",
-    "imgs/storage-summary.png",
-    "imgs/ebs-efs.png",
-    "imgs/efs-ia.png",
+    "AWS - Section 7 - Elastic Load Balancing + Auto Scaling Groups.md",
+    "AWS - Section 11 - Deploying & Infrastructure at Scale.md",
+    "imgs/code-deploy.png",
     "AWS - Section 3 - Cloud.md",
-    "imgs/ec2-img-builder.png",
-    "AWS - Section 4 - IAM.md",
+    "imgs/cloudformation.png",
+    "AWS - Section 10 - ECS, Lambda, Batch, Lightsail (Compute).md",
+    "imgs/lambda-sum.png",
+    "imgs/other-compute.png",
+    "imgs/api-gateway.png",
+    "AWS - Section 9 - Databases.md",
+    "AWS - Section 8 - S3.md",
     "AWS - Section 5 - EC2.md",
-    "imgs/snap.png",
-    "Screenshot 2023-11-13 at 13.58.13.png",
-    "Screenshot 2023-11-13 at 13.53.01.png",
-    "Screenshot 2023-11-13 at 13.52.43.png",
+    "imgs/ec2-img-builder.png",
+    "imgs/summary-dbs.png",
     "README.md",
+    "AWS - Section 6 - Storage.md",
+    "imgs/storage-gateway.png",
+    "imgs/snow.png",
+    "imgs/am-access-analyzer.png.md",
+    "imgs/iam-access-analyzer.png",
+    "AWS - Section 4 - IAM.md",
     "imgs/isec.png.md",
-    "imgs/ec2-instances.png",
     "imgs"
   ]
 }
