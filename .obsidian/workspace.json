@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 276.5
   },
   "right": {
     "id": "16e38dbe88b318dd",
@@ -148,8 +148,11 @@
   },
   "active": "54df0c2226a27e44",
   "lastOpenFiles": [
-    "imgs/developer.png",
+    "AWS - Section 12 - Global Infrastructure.md",
+    "imgs/basics-dns.png",
+    "imgs/dns.png",
     "AWS - Section 11 - Deploying & Infrastructure at Scale.md",
+    "imgs/developer.png",
     "imgs/deployment.png",
     "imgs/code-build.png",
     "AWS - Section 7 - Elastic Load Balancing + Auto Scaling Groups.md",
@@ -163,8 +166,6 @@
     "AWS - Section 9 - Databases.md",
     "AWS - Section 8 - S3.md",
     "AWS - Section 5 - EC2.md",
-    "imgs/ec2-img-builder.png",
-    "imgs/summary-dbs.png",
     "README.md",
     "AWS - Section 6 - Storage.md",
     "imgs/am-access-analyzer.png.md",
