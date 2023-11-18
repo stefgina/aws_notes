@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS - Section 11 - Deploying & Infrastructure at Scale.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS - Section 11 - Deploying & Infrastructure at Scale.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS - Section 11 - Deploying & Infrastructure at Scale.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS - Section 11 - Deploying & Infrastructure at Scale.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,24 +149,24 @@
   "active": "54df0c2226a27e44",
   "lastOpenFiles": [
     "AWS - Section 12 - Global Infrastructure.md",
+    "README.md",
+    "imgs/aws.png",
+    "AWS - Section 11 - Deploying & Infrastructure at Scale.md",
+    "AWS - Section 10 - ECS, Lambda, Batch, Lightsail (Compute).md",
+    "AWS - Section 7 - Elastic Load Balancing + Auto Scaling Groups.md",
     "imgs/basics-dns.png",
     "imgs/dns.png",
-    "AWS - Section 11 - Deploying & Infrastructure at Scale.md",
     "imgs/developer.png",
     "imgs/deployment.png",
     "imgs/code-build.png",
-    "AWS - Section 7 - Elastic Load Balancing + Auto Scaling Groups.md",
     "imgs/code-deploy.png",
     "AWS - Section 3 - Cloud.md",
     "imgs/cloudformation.png",
-    "AWS - Section 10 - ECS, Lambda, Batch, Lightsail (Compute).md",
     "imgs/lambda-sum.png",
     "imgs/other-compute.png",
-    "imgs/api-gateway.png",
     "AWS - Section 9 - Databases.md",
     "AWS - Section 8 - S3.md",
     "AWS - Section 5 - EC2.md",
-    "README.md",
     "AWS - Section 6 - Storage.md",
     "imgs/am-access-analyzer.png.md",
     "AWS - Section 4 - IAM.md",
