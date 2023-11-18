@@ -1,7 +1,7 @@
 One EBS cant belong to 2 EC2, like a USB stick
 (While I say that in the previous lecture that EBS volumes cannot be attached to multiple instances, I know it is not true for io1 and io2 volume types: this is called the EBS Multi-Attach feature.)
 
-they are scoped in Availability zones: an EBS volume in us-east-1a cannot be attached to us-east-1b![](imgs/scope.png)
+EBS's are scoped in Availability zones: an EBS volume in us-east-1a cannot be attached to us-east-1b![](imgs/scope.png)
 
 Delete on Termination attribute: by default only in root EBS
 if you want to preserve the root data, disable that.
