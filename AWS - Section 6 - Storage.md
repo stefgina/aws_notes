@@ -25,8 +25,8 @@ can even buy from marketplace (an AMI)
 AMI vs Snapshot EBS:
 Most basic difference between AMIs and snapshots are the type of services they are associated with. **Snapshots are associated with EBS while AMIs are associared with EC2 instances**. Snapshots are the backup of the data on EBS volumes, whereas AMIs are bootable copy of the whole EC2 instances.
 
-eg AMI can include (ram, cpu type, ebs etc.)
-eg Snapshot can only contain Storage
+example: AMI can include (ram, cpu type, ebs etc.)
+example: Snapshot can only contain Storage
 
 You cannot use AMIs to add your IP addresses. IP addresses are added to an instance as you create it.
 
