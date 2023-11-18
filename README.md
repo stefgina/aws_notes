@@ -1,6 +1,5 @@
 
-
-![](imgs/aws.png)
+![](imgs/aws-small.png)
 - Cloud
 - IAM
 - EC2
