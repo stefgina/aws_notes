@@ -12,4 +12,4 @@
 - Global Infrastructure
 
 
-TODO: cert folder structure, for AWS ML
+TODO: folder structure, and SageMaker
