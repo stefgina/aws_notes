@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "AWS - Section 16 - Security and Compliance.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 287.5
   },
   "right": {
     "id": "16e38dbe88b318dd",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "AWS - Section 16 - Security and Compliance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "AWS - Section 16 - Security and Compliance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "AWS - Section 16 - Security and Compliance.md"
               }
             }
           }
@@ -148,21 +148,23 @@
   },
   "active": "54df0c2226a27e44",
   "lastOpenFiles": [
+    "imgs/sample-protection.png",
+    "AWS - Section 16 - Security and Compliance.md",
+    "imgs/rds-responsibility.png",
+    "imgs/s3-responsibility.png",
+    "Screenshot 2023-11-21 at 01.16.41.png",
+    "imgs/responsibilities.png",
+    "AWS - Section 15 - Virtual Private Cloud & Networking.md",
+    "imgs/summary2-vpc.png",
+    "imgs/summary1-vpc.png",
+    "imgs/private-link.png",
+    "imgs/security.png",
     "AWS - Section 14 - Cloud Monitoring.md",
-    "AWS - Section 13 - Cloud Integration.md",
-    "imgs/summary-integration.png",
-    "imgs/sqs-fifo.png",
-    "imgs/sqs2.png",
-    "imgs/sqs.png",
-    "AWS - Section 12 - Global Infrastructure.md",
+    "imgs/summary-14.png",
     "README.md",
+    "AWS - Section 13 - Cloud Integration.md",
+    "AWS - Section 12 - Global Infrastructure.md",
     "AWS - Section 11 - Deploying & Infrastructure at Scale.md",
-    "imgs/global2.png",
-    "imgs/global1.png",
-    "imgs/global-app2.png",
-    "imgs/global-apps1.png",
-    "imgs/local-zones.png",
-    "imgs/wavelength.png",
     "AWS - Section 6 - Storage.md",
     "AWS - Section 10 - ECS, Lambda, Batch, Lightsail (Compute).md",
     "AWS - Section 7 - Elastic Load Balancing + Auto Scaling Groups.md",
