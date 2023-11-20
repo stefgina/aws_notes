@@ -70,3 +70,4 @@ Global Applications Architecture
 
 #######
 Summary
+![](imgs/global1.png)![](imgs/global2.png)
