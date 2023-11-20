@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "AWS - Section 12 - Global Infrastructure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "AWS - Section 12 - Global Infrastructure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "AWS - Section 12 - Global Infrastructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "AWS - Section 12 - Global Infrastructure.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "54df0c2226a27e44",
   "lastOpenFiles": [
-    "imgs/aws-small.png",
     "README.md",
+    "imgs/aws-small.png",
     "AWS - Section 6 - Storage.md",
     "AWS - Section 12 - Global Infrastructure.md",
     "imgs/aws.png",

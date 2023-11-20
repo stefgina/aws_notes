@@ -32,6 +32,13 @@ Custom Origin (HTTP,ec2,s3 website)
 #######
 S3 Transfer Acceleration
 
+Uploading/Downloading the file into edge location, and then to S3 Bucket
+you do it if the bucket is far from us
+can perform tests as well to check the best region
+
+#######
+
+
 
 
 
