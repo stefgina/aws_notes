@@ -10,6 +10,8 @@
 - ECS + Lambda + Batch + LightSail
 - Infrastructure at Scale
 - Global Infrastructure
+- Cloud Integration
+- Cloud Monitoring
 
 
 TODO: folder structure, and SageMaker

@@ -33,3 +33,7 @@ Amazon MQ
 In order not to adapt your app into SQS and SNS
 Amazon MQ do it for you
 Only if Migrating to the cloud, else SQS or SNS
+
+#######
+Summary
+![](imgs/summary-integration.png)
