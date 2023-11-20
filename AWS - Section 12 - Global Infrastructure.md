@@ -42,7 +42,21 @@ Global Accelerator
 **S3 Transfer Acceleration helps speed up long-distance object transfers between S3 buckets, while Global Accelerator helps manage traffic across multiple AWS regions**.
 
 #######
+AWS Outposts
 
+For Hybrid Cloud, they bring you Server Racks like AWS infra
+Benefits: low latency, local data processing, data residency, fully managed service.
+
+![](imgs/outposts.png)
+
+#######
+AWS WaveLength
+
+Deployments embedded withing the providers 5G Networks
+![](imgs/wavelength.png)
+
+#######
+AWS Local Zones
 
 
 
