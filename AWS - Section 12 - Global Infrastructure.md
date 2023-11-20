@@ -37,7 +37,11 @@ you do it if the bucket is far from us
 can perform tests as well to check the best region
 
 #######
+Global Accelerator 
 
+**S3 Transfer Acceleration helps speed up long-distance object transfers between S3 buckets, while Global Accelerator helps manage traffic across multiple AWS regions**.
+
+#######
 
 
 
