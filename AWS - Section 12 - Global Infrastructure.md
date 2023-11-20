@@ -58,6 +58,15 @@ Deployments embedded withing the providers 5G Networks
 #######
 AWS Local Zones
 
+Places compute, storage, database closer to the users ->
+to RUN LOW LATENCY apps
 
+ ![](local-zones.png)
 
- 
+#######
+Global Applications Architecture
+
+![](imgs/global-apps1.png)![](imgs/global-app2.png)
+
+#######
+Summary
