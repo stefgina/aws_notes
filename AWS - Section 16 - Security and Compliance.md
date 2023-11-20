@@ -21,4 +21,9 @@ Under attack you should SCALE - AWS Auto Scaling
 
 ![](imgs/sample-protection.png)
 
+#######
+Network Firewall\
+How to protect your entire VPC at once?
+operates at VPC level
 
+#######
