@@ -13,7 +13,23 @@ simple queue, decouple applications
 fully managed
 no limit of msgs in the queue
 messages are deleted after read by consumers
+can be FIFO
 
 ![](imgs/sqs.png)
+![](imgs/sqs2.png)
+![](imgs/sqs-fifo.png)
 
 #######
+Kinesis - Real-time Big Data Streaming
+
+#######
+SNS - Simple Notification Service
+
+One message to SNS, to many Receivers
+
+#######
+Amazon MQ
+
+In order not to adapt your app into SQS and SNS
+Amazon MQ do it for you
+Only if Migrating to the cloud, else SQS or SNS
