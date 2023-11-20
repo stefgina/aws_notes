@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS - Section 12 - Global Infrastructure.md",
+                "file": "AWS - Section 13 - Cloud Integration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS - Section 12 - Global Infrastructure.md",
+                "file": "AWS - Section 13 - Cloud Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS - Section 12 - Global Infrastructure.md",
+                "file": "AWS - Section 13 - Cloud Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS - Section 12 - Global Infrastructure.md"
+                "file": "AWS - Section 13 - Cloud Integration.md"
               }
             }
           }
@@ -148,10 +148,13 @@
   },
   "active": "54df0c2226a27e44",
   "lastOpenFiles": [
-    "imgs/global2.png",
-    "imgs/global1.png",
+    "imgs/sqs.png",
+    "AWS - Section 13 - Cloud Integration.md",
     "AWS - Section 12 - Global Infrastructure.md",
     "README.md",
+    "AWS - Section 11 - Deploying & Infrastructure at Scale.md",
+    "imgs/global2.png",
+    "imgs/global1.png",
     "imgs/global-app2.png",
     "imgs/global-apps1.png",
     "imgs/local-zones.png",
@@ -160,10 +163,8 @@
     "imgs/aws-small.png",
     "AWS - Section 6 - Storage.md",
     "imgs/aws.png",
-    "AWS - Section 11 - Deploying & Infrastructure at Scale.md",
     "AWS - Section 10 - ECS, Lambda, Batch, Lightsail (Compute).md",
     "AWS - Section 7 - Elastic Load Balancing + Auto Scaling Groups.md",
-    "imgs/basics-dns.png",
     "AWS - Section 3 - Cloud.md",
     "AWS - Section 9 - Databases.md",
     "AWS - Section 8 - S3.md",

@@ -19,7 +19,7 @@ failover routing policy (dns does healthcheck and in case of disaster goes to ot
 CloudFront
 
 Caches requests, for the next user not to wait the full route.
-
+Waf + Shield -> DDOS protection
 Content Delivery Network (CDN)
 Improves read performance, content is cached at the edge
 216 points globally
