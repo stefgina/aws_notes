@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4cd4edf8a6781852",
+        "id": "9f32a9ddb1b4a4d0",
         "type": "tabs",
         "children": [
           {
-            "id": "54df0c2226a27e44",
+            "id": "22c371ac70833e2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS - Section 18 - Account Management, Billing.md",
+                "file": "AWS - Section 19 - Advanced Identity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS - Section 18 - Account Management, Billing.md",
+                "file": "AWS - Section 19 - Advanced Identity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS - Section 18 - Account Management, Billing.md",
+                "file": "AWS - Section 19 - Advanced Identity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS - Section 18 - Account Management, Billing.md"
+                "file": "AWS - Section 19 - Advanced Identity.md"
               }
             }
           }
@@ -146,22 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54df0c2226a27e44",
+  "active": "22c371ac70833e2d",
   "lastOpenFiles": [
-    "imgs/ram.png",
+    "imgs/advanced-identity.png",
+    "AWS - Section 19 - Advanced Identity.md",
     "AWS - Section 18 - Account Management, Billing.md",
-    "imgs/scp.png",
-    "imgs/orgs.png",
-    "AWS - Section 17 - Machine Learning.md",
-    "imgs/ML.png",
-    "AWS - Section 16 - Security and Compliance.md",
+    "imgs/summary-billing-cost.png",
+    "imgs/summary-account.png",
+    "imgs/support-plans-billing.png",
+    "imgs/trusted2.png",
+    "imgs/trusted-advisor.png",
     "README.md",
-    "imgs/pipeline-lex-connect.png",
-    "imgs/summary-security2.png",
-    "imgs/summary-security1.png",
-    "imgs/sample-protection.png",
-    "imgs/rds-responsibility.png",
-    "imgs/s3-responsibility.png",
+    "imgs/savings-plan.png",
+    "imgs/networking-cost.png",
+    "imgs/free.png",
+    "imgs/ram.png",
+    "AWS - Section 17 - Machine Learning.md",
+    "AWS - Section 16 - Security and Compliance.md",
     "AWS - Section 15 - Virtual Private Cloud & Networking.md",
     "AWS - Section 14 - Cloud Monitoring.md",
     "AWS - Section 13 - Cloud Integration.md",
