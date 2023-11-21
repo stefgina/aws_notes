@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a7837701471467e",
+  "active": "22c371ac70833e2d",
   "lastOpenFiles": [
+    "AWS_Cloud/3-EC2.md",
+    "README.md",
     "AWS_Cloud/18-Architecting and Ecosystem.md",
     "AWS_Cloud/17-Advanced Identity.md",
     "AWS_Cloud/16-Account Management, Billing.md",
@@ -163,10 +165,8 @@
     "AWS_Cloud/6-S3.md",
     "AWS_Cloud/5-Elastic Load Balancing-Auto Scaling Groups.md",
     "AWS_Cloud/4-Storage.md",
-    "AWS_Cloud/3-EC2.md",
     "AWS_Cloud/2-IAM.md",
     "AWS_Cloud/1-Cloud.md",
-    "README.md",
     "imgs/aws.png",
     "imgs",
     "AWS_Cloud",

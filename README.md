@@ -1,5 +1,5 @@
 
-![](aws-small.png)
+![](imgs/aws-small.png)
 ## AWS Cloud
 - Cloud
 - IAM
