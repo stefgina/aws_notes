@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS - Section 17 - Machine Learning.md",
+                "file": "AWS - Section 18 - Account Management, Billing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS - Section 17 - Machine Learning.md",
+                "file": "AWS - Section 18 - Account Management, Billing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS - Section 17 - Machine Learning.md",
+                "file": "AWS - Section 18 - Account Management, Billing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS - Section 17 - Machine Learning.md"
+                "file": "AWS - Section 18 - Account Management, Billing.md"
               }
             }
           }
@@ -148,20 +148,21 @@
   },
   "active": "54df0c2226a27e44",
   "lastOpenFiles": [
+    "imgs/ram.png",
+    "AWS - Section 18 - Account Management, Billing.md",
+    "imgs/scp.png",
+    "imgs/orgs.png",
+    "AWS - Section 17 - Machine Learning.md",
+    "imgs/ML.png",
     "AWS - Section 16 - Security and Compliance.md",
     "README.md",
     "imgs/pipeline-lex-connect.png",
-    "AWS - Section 17 - Machine Learning.md",
     "imgs/summary-security2.png",
     "imgs/summary-security1.png",
     "imgs/sample-protection.png",
     "imgs/rds-responsibility.png",
     "imgs/s3-responsibility.png",
-    "Screenshot 2023-11-21 at 01.16.41.png",
-    "imgs/responsibilities.png",
     "AWS - Section 15 - Virtual Private Cloud & Networking.md",
-    "imgs/summary2-vpc.png",
-    "imgs/summary1-vpc.png",
     "AWS - Section 14 - Cloud Monitoring.md",
     "AWS - Section 13 - Cloud Integration.md",
     "AWS - Section 12 - Global Infrastructure.md",
