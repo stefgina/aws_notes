@@ -1,1 +1,1 @@
-![](advanced-identity.png)
+![](imgs/advanced-identity.png)

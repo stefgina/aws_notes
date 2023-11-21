@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS - Section 19 - Advanced Identity.md",
+                "file": "AWS - Section 4 - IAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS - Section 19 - Advanced Identity.md",
+                "file": "AWS - Section 4 - IAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS - Section 19 - Advanced Identity.md",
+                "file": "AWS - Section 4 - IAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS - Section 19 - Advanced Identity.md"
+                "file": "AWS - Section 4 - IAM.md"
               }
             }
           }
@@ -148,19 +148,21 @@
   },
   "active": "22c371ac70833e2d",
   "lastOpenFiles": [
-    "imgs/advanced-identity.png",
+    "AWS - Section 3 - Cloud.md",
+    "AWS - Section 20 - Architecting and Ecosystem.md",
+    "imgs/cloud-transformation.png",
+    "imgs/sustainability.png",
+    "imgs/cost-optimization.png",
+    "imgs/performance-efficiency.png",
+    "imgs/reliability-pillar.png",
+    "imgs/security-services.png",
+    "imgs/operational-excellence.png",
     "AWS - Section 19 - Advanced Identity.md",
+    "imgs/advanced-identity.png",
     "AWS - Section 18 - Account Management, Billing.md",
     "imgs/summary-billing-cost.png",
     "imgs/summary-account.png",
-    "imgs/support-plans-billing.png",
-    "imgs/trusted2.png",
-    "imgs/trusted-advisor.png",
     "README.md",
-    "imgs/savings-plan.png",
-    "imgs/networking-cost.png",
-    "imgs/free.png",
-    "imgs/ram.png",
     "AWS - Section 17 - Machine Learning.md",
     "AWS - Section 16 - Security and Compliance.md",
     "AWS - Section 15 - Virtual Private Cloud & Networking.md",
@@ -171,7 +173,6 @@
     "AWS - Section 6 - Storage.md",
     "AWS - Section 10 - ECS, Lambda, Batch, Lightsail (Compute).md",
     "AWS - Section 7 - Elastic Load Balancing + Auto Scaling Groups.md",
-    "AWS - Section 3 - Cloud.md",
     "AWS - Section 9 - Databases.md",
     "AWS - Section 8 - S3.md",
     "AWS - Section 5 - EC2.md",
