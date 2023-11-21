@@ -1,5 +1,6 @@
 
 ![](imgs/aws-small.png)
+## AWS Cloud
 - Cloud
 - IAM
 - EC2
@@ -12,6 +13,15 @@
 - Global Infrastructure
 - Cloud Integration
 - Cloud Monitoring
+- Virtual Private Cloud & Networking
+- Security and Compliance
+- Machine Learning
+- Account Management & Billing
+- Advanced Identity
+- Architecting and Ecosystem
+
+## AWS Machine Learning
 
 
-TODO: folder structure, and SageMaker
+
+

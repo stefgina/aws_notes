@@ -61,7 +61,7 @@ AWS Local Zones
 Places compute, storage, database closer to the users ->
 to RUN LOW LATENCY apps
 
- ![](local-zones.png)
+ ![](imgs/local-zones.png)
 
 #######
 Global Applications Architecture

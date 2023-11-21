@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS - Section 4 - IAM.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 484.5
   },
   "right": {
     "id": "16e38dbe88b318dd",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS - Section 4 - IAM.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS - Section 4 - IAM.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS - Section 4 - IAM.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,37 +148,39 @@
   },
   "active": "22c371ac70833e2d",
   "lastOpenFiles": [
-    "AWS - Section 3 - Cloud.md",
-    "AWS - Section 20 - Architecting and Ecosystem.md",
-    "imgs/cloud-transformation.png",
-    "imgs/sustainability.png",
-    "imgs/cost-optimization.png",
-    "imgs/performance-efficiency.png",
-    "imgs/reliability-pillar.png",
-    "imgs/security-services.png",
-    "imgs/operational-excellence.png",
-    "AWS - Section 19 - Advanced Identity.md",
-    "imgs/advanced-identity.png",
-    "AWS - Section 18 - Account Management, Billing.md",
-    "imgs/summary-billing-cost.png",
-    "imgs/summary-account.png",
+    "AWS_Cloud/18-Architecting and Ecosystem.md",
+    "AWS_Cloud/17-Advanced Identity.md",
+    "AWS_Cloud/16-Account Management, Billing.md",
+    "AWS_Cloud/15-Machine Learning.md",
+    "AWS_Cloud/14-Security and Compliance.md",
+    "AWS_Cloud/13-Virtual Private Cloud & Networking.md",
+    "AWS_Cloud/12-Cloud Monitoring.md",
+    "AWS_Cloud/11-Cloud Integration.md",
+    "AWS_Cloud/10-Global Infrastructure.md",
+    "AWS_Cloud/9-Deploying & Infrastructure at Scale.md",
+    "AWS_Cloud/8-ECS-Lambda-Batch-Lightsail.md",
+    "AWS_Cloud/7-Databases.md",
+    "AWS_Cloud/6-S3.md",
+    "AWS_Cloud/5-Elastic Load Balancing-Auto Scaling Groups.md",
+    "AWS_Cloud/4-Storage.md",
+    "AWS_Cloud/3-EC2.md",
+    "AWS_Cloud/2-IAM.md",
+    "AWS_Cloud/1-Cloud.md",
     "README.md",
-    "AWS - Section 17 - Machine Learning.md",
-    "AWS - Section 16 - Security and Compliance.md",
-    "AWS - Section 15 - Virtual Private Cloud & Networking.md",
-    "AWS - Section 14 - Cloud Monitoring.md",
-    "AWS - Section 13 - Cloud Integration.md",
-    "AWS - Section 12 - Global Infrastructure.md",
-    "AWS - Section 11 - Deploying & Infrastructure at Scale.md",
-    "AWS - Section 6 - Storage.md",
-    "AWS - Section 10 - ECS, Lambda, Batch, Lightsail (Compute).md",
-    "AWS - Section 7 - Elastic Load Balancing + Auto Scaling Groups.md",
-    "AWS - Section 9 - Databases.md",
-    "AWS - Section 8 - S3.md",
-    "AWS - Section 5 - EC2.md",
-    "imgs/am-access-analyzer.png.md",
-    "AWS - Section 4 - IAM.md",
-    "imgs/isec.png.md",
-    "imgs"
+    "imgs/aws.png",
+    "imgs",
+    "AWS_Cloud",
+    "AWS_Cloud/imgs/cloud-transformation.png",
+    "AWS_Cloud/imgs/sustainability.png",
+    "AWS_Cloud/imgs/cost-optimization.png",
+    "AWS_Cloud/imgs/performance-efficiency.png",
+    "AWS_Cloud/imgs/reliability-pillar.png",
+    "AWS_Cloud/imgs/security-services.png",
+    "AWS_Cloud/imgs/operational-excellence.png",
+    "AWS_Cloud/imgs/advanced-identity.png",
+    "AWS_Cloud/imgs/summary-billing-cost.png",
+    "AWS_Cloud/imgs/am-access-analyzer.png.md",
+    "AWS_Cloud/imgs/isec.png.md",
+    "AWS_Cloud/imgs"
   ]
 }

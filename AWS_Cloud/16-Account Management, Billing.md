@@ -25,7 +25,7 @@ Pay less by using more
 Pay less as AWS grows
 
 FREEEEEE
-![](free.png)
+![](imgs/free.png)
 
 EC2 - charged for what you use
 On-demand instances: per second or per hour

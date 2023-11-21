@@ -1,9 +1,9 @@
 #######
 RDS Responsibility
-![](rds-responsibility.png)
+![](imgs/rds-responsibility.png)
 
 S3 Responsibility
-![](s3-responsibility.png)
+![](imgs/s3-responsibility.png)
 
 Shared Responsibillity
 ![](imgs/responsibilities.png)
