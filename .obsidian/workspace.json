@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cf1b914a0f3234d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS_ML/1-Data-Engineering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 484.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "16e38dbe88b318dd",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "AWS_ML/1-Data-Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "AWS_ML/1-Data-Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "AWS_ML/1-Data-Engineering.md"
               }
             }
           }
@@ -146,10 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22c371ac70833e2d",
+  "active": "cf1b914a0f3234d4",
   "lastOpenFiles": [
-    "AWS_Cloud/3-EC2.md",
     "README.md",
+    "AWS_ML/1-Data-Engineering.md",
+    "AWS_ML",
+    "untitled folder",
+    "AWS_Cloud/3-EC2.md",
     "AWS_Cloud/18-Architecting and Ecosystem.md",
     "AWS_Cloud/17-Advanced Identity.md",
     "AWS_Cloud/16-Account Management, Billing.md",
