@@ -6,3 +6,4 @@ Objects (files) have a Key. The key is the FULL path:
 <my_bucket>/my_file.txt
 Max object size is 5TB
 Object Tags (key/value pair) - useful for security/lifecycle
+soso
