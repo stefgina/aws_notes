@@ -7,3 +7,6 @@ Objects (files) have a Key. The key is the FULL path:
 Max object size is 5TB
 Object Tags (key/value pair) - useful for security/lifecycle
 soso
+
+
+Then try to study with methodology and program
