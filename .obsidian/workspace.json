@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6a5b67da77f0be75",
@@ -148,6 +149,7 @@
   },
   "active": "8a1c542889452705",
   "lastOpenFiles": [
+    "AWS_ML/imgs",
     "AWS_Cloud/1-Cloud.md",
     "AWS_ML/1-Data-Engineering.md",
     "imgs/aws.png",
