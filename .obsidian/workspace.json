@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "841f8287a975e47b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c69dca8f704b16a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a1c542889452705",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS_ML/1-Data-Engineering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c282abb38c25134",
+    "type": "split",
+    "children": [
+      {
+        "id": "abfbd844f3f4391b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dbaa6ac8279e815",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21f5d7d3cb1b17af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c346c8b9f969a3e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a5b67da77f0be75",
+    "type": "split",
+    "children": [
+      {
+        "id": "66cb6e5c7cd625ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "329807b7f7798b8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AWS_ML/1-Data-Engineering.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ae201def4f1eac3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AWS_ML/1-Data-Engineering.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76d36871e5bbbdf0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8ea018f7e8783d26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AWS_ML/1-Data-Engineering.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8a1c542889452705",
+  "lastOpenFiles": [
+    "AWS_Cloud/1-Cloud.md",
+    "AWS_ML/1-Data-Engineering.md",
+    "imgs/aws.png",
+    "imgs/aws-small.png",
+    "imgs",
+    "README.md",
+    "AWS_ML",
+    "AWS_Cloud/imgs/wavelength.png",
+    "AWS_Cloud/imgs/trusted2.png",
+    "AWS_Cloud/imgs/trusted-advisor.png",
+    "AWS_Cloud/imgs/sustainability.png",
+    "AWS_Cloud/imgs/support-plans-billing.png",
+    "AWS_Cloud/imgs/summary2-vpc.png",
+    "AWS_Cloud/imgs/summary1-vpc.png",
+    "AWS_Cloud/imgs/summary-security2.png",
+    "AWS_Cloud/imgs/isec.png.md",
+    "AWS_Cloud/imgs/am-access-analyzer.png.md",
+    "AWS_Cloud/imgs",
+    "AWS_Cloud/9-Deploying & Infrastructure at Scale.md",
+    "AWS_Cloud/8-ECS-Lambda-Batch-Lightsail.md",
+    "AWS_Cloud/7-Databases.md",
+    "AWS_Cloud/6-S3.md",
+    "AWS_Cloud/5-Elastic Load Balancing-Auto Scaling Groups.md",
+    "AWS_Cloud/4-Storage.md",
+    "AWS_Cloud/3-EC2.md",
+    "AWS_Cloud/2-IAM.md",
+    "AWS_Cloud/18-Architecting and Ecosystem.md",
+    "AWS_Cloud/17-Advanced Identity.md",
+    "AWS_Cloud/16-Account Management, Billing.md",
+    "AWS_Cloud/15-Machine Learning.md",
+    "AWS_Cloud/14-Security and Compliance.md",
+    "AWS_Cloud/13-Virtual Private Cloud & Networking.md",
+    "AWS_Cloud/12-Cloud Monitoring.md",
+    "AWS_Cloud/11-Cloud Integration.md",
+    "AWS_Cloud/10-Global Infrastructure.md",
+    "AWS_Cloud"
+  ]
+}
