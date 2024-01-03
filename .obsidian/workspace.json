@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6a5b67da77f0be75",
@@ -149,9 +148,11 @@
   },
   "active": "8a1c542889452705",
   "lastOpenFiles": [
+    "AWS_ML/imgs/lifecycle_s3.png",
+    "AWS_ML/1-Data-Engineering.md",
+    "Screenshot 2024-01-02 at 21.59.08.png",
     "AWS_ML/imgs",
     "AWS_Cloud/1-Cloud.md",
-    "AWS_ML/1-Data-Engineering.md",
     "imgs/aws.png",
     "imgs/aws-small.png",
     "imgs",
@@ -163,8 +164,6 @@
     "AWS_Cloud/imgs/sustainability.png",
     "AWS_Cloud/imgs/support-plans-billing.png",
     "AWS_Cloud/imgs/summary2-vpc.png",
-    "AWS_Cloud/imgs/summary1-vpc.png",
-    "AWS_Cloud/imgs/summary-security2.png",
     "AWS_Cloud/imgs/isec.png.md",
     "AWS_Cloud/imgs/am-access-analyzer.png.md",
     "AWS_Cloud/imgs",
