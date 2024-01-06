@@ -62,5 +62,47 @@ You can use Amazon S3 Analytics, to decide object transitions (with a csv report
 - Resource Based (Bucket Policy, Object/Bucket Access Control List)
 - Encryption Keys
 
+####### S3 Encryption
+
+- Server Side Encryption (SSE)
+- Client Side Encryption (CSE)
 
 
+SSE S3->  (default encryption )
+encryption uses keys from AWS
+object is encrypted server-side
+AES-256 Encryption
+this is the default
+
+SSE KMS -> 
+you manage the key using the AWS KMS service
+you can audit the usage using CloudTrail
+API calls to the KMS Service
+maybe throttling if you have high throughput and everything moves through KMS keys
+
+SSE-C ->
+Server Side encryption using keys fully managed by the customer outside of AWS
+Amazon S3 does NOT store the encryption key you provide (after use they are being dicarderd)
+
+
+####### VPC Endpoints
+
+
+![](imgs/vpc.png)
+
+
+####### AWS KINESIS
+
+- Managed alternative to Apache Kafka
+- Great for application logs, metrics, IoT, clickstreams
+- Great for real-time big data
+- Great for stream processing (spark, nifi etc)
+- auto replication to 3 AZ
+
+Kinesis Streams: low latency streaming ingest at scale
+Kinesis Analytics: perform real-time analytics on streams using SQL
+Kinesis Data Firehose: load streams into S3, Redshift, Elastic Search
+Kinesis Video Streams:meant for streaming video in real-time
+
+Example:
+![](imgs/kinesis-example.png)
